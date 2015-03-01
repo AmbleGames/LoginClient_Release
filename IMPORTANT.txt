@@ -1,0 +1,17 @@
+The Source is without the Server Connection String!!
+
+You have to edit the following lines:
+
+27	Relace here your Serveraddress, Username and Password for you Server.
+
+31	Replace DATABASE.TABLE with you Database name and Table name.
+
+
+49	Relace here your Serveraddress, Username and Password for you Server.
+
+52	Replace DATABASE.TABLE with you Database name and Table name.
+
+
+Your Table must have a column named "username" and "password"
+			OR
+you have to rename on line 52 the names from username= [...] password=

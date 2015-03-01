@@ -1,0 +1,12 @@
+If you don't have a server with a MySQL Database you can do this:
+
+1. Go to http://www.appharbor.com/ and create an Account.
+2. Then go to Your Applications
+3. Create new application
+4. Click on Add-ons
+5. Search for MySQL (NOT DEDICADED MYSQL) and click on it
+6. Choose Yocto (free) -> click on install.
+7. Now above are some Links. Click on GO TO MYSQL
+8. Here you can see all things you have to insert to the Source Code
+
+Don't forget to read IMPORTANT
