@@ -1,0 +1,24 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient_MySQL_.Login.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient_MySQL_.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetazLogin.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient(MySQL).exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\bin\Debug\MySql.Data.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient(MySQL).pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BetaLoginClient(MySQL)\BetaLoginClient(MySQL)\obj\Debug\BetazLogin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient(MySQL).exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient(MySQL).pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\bin\Debug\BetaLoginClient(MySQL).pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\bin\Debug\MySql.Data.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetazLogin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient_MySQL_.Login.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient_MySQL_.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetazLogin.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Login_via_MySQL\BetaLoginClient(MySQL)\obj\Debug\BetaLoginClient_MySQL_.Success.resources
+C:\Users\David\Documents\GitHub\LoginClient_Release\Source\LoginClient\bin\Debug\BetaLoginClient(MySQL).exe.config
+C:\Users\David\Documents\GitHub\LoginClient_Release\Source\LoginClient\obj\Debug\BetaLoginClient(MySQL).exe
+C:\Users\David\Documents\GitHub\LoginClient_Release\Source\LoginClient\obj\Debug\BetaLoginClient(MySQL).pdb
